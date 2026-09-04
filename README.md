@@ -4,3 +4,9 @@ This repository holds all the work during CODE-SPACE-ACADEMY course, learning ab
 ## Index
 
 ### Aknowledgements
+
+To install the required packages, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
