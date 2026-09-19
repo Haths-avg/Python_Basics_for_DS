@@ -10,3 +10,5 @@ To install the required packages, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
+
+En un notebook si pones ! delante de algo es como si lo ejecutaras en una terminal
