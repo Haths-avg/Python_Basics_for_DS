@@ -1,4 +1,5 @@
-# Data files tmp
+# Data files 
+data/
 *.csv
 *.png
 
